@@ -12,7 +12,7 @@ We are to write python code to preprocess a set of resumes and convert them to n
 
 Dataset: The data set we are given contains around 250 distinct CVs distinguished by their Ids
 
-The task2 contains the following subtasks:
+The task2 contains the following subtasks:  
 ● The word tokenization must use the following regular expression, "\w+(?:[-']\w+)?"  
 ● The context-independent and context-dependent (with the threshold set to %98) stop words must be removed from the vocab. The stop words list (i.e, stopwords_en.txt)  
 provided in the zip file must be used.  
